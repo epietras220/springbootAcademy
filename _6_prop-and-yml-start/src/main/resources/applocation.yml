@@ -1,0 +1,4 @@
+hello:
+  controller:
+    foo: foo
+    hello: hello
